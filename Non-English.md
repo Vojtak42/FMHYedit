@@ -269,7 +269,7 @@
 
 ## ▷ Torrenting
 
-* [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio / NSFW
+* [sktorrent](http://sktorrent.eu/) - Video / Audio / NSFW
 
 ## ▷ Streaming
 
